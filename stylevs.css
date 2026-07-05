@@ -1,0 +1,19 @@
+.theme-dark {
+    --background-primary: #e0c9a6;
+    --background-secondary: #0d1117;
+    }
+    body  {
+    background-color: #4b3832;
+    
+    }
+    h1{
+    color: #fff4e6;
+    font-family: Fantasy, Chalkduster, papryus, Noto;
+    }
+    p{
+    color: #854442;
+    font-family: Optima, Monaco, Serif;
+    }
+    main{
+    padding: 20px;
+    }
