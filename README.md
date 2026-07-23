@@ -1,8 +1,41 @@
-# Professional Portfolio Website
+# Sentinel Spectrum Technologies
+
+*A fictional defense technology company specializing in Software-Defined Radio (SDR) solutions.*
+
+---
 
 ## Project Overview
 
-This project was created as part of CMPA 3301 (Fundamentals of Computing Applications) at Texas Tech University. The purpose of this website is to demonstrate my understanding of HTML, CSS, Git version control, GitHub, and GitHub Pages by creating and publishing a personal portfolio website. The site serves as an introduction to who I am, my educational background, technical interests, and future career goals while providing hands-on experience with modern web development workflows.
+Sentinel Spectrum Technologies is a fictional defense contracting company created for the CMPA 3301 Final Project. The website illustrates a fundamental web development and project management skills through the creation of a professional two-page website using HTML and CSS.
+
+The purpose of this project is to showcase a fictional company that develops and integrates Software-Defined Radio (SDR) systems for military, government, and secure communications environments. While inspired by real defense technologies, all content is fictional and intended solely for educational purposes.
+
+---
+
+## Live Website
+
+**GitHub Pages:**  
+https://ethanetomi.github.io
+
+---
+
+## Repository Structure
+
+```
+/
+│
+├── index.html
+├── about.html
+├── style.css
+├── README.md
+│
+└── docs/
+    ├── scope.md
+    ├── plan.md
+    └── retrospective.md
+```
+
+---
 
 ## Technologies Used
 
@@ -11,34 +44,32 @@ This project was created as part of CMPA 3301 (Fundamentals of Computing Applica
 - Git
 - GitHub
 - GitHub Pages
-- Markdown
+- Visual Studio Code
 
-## Features
+---
 
-- Responsive personal portfolio homepage
-- Custom CSS styling
-- Organized webpage structure using semantic HTML
-- Public deployment using GitHub Pages
-- Version control through Git and GitHub
+## Website Features
 
-## Live Website
+- Professional homepage
+- Company overview
+- About page
+- Responsive layout
+- Shared external stylesheet
+- Consistent navigation
+- Fictional defense company branding
 
-Visit the live website here:
+---
 
-https://ethanetomi.github.io
+## Documentation
 
-## Repository
+Project documentation can be found in the **docs** folder.
 
-This repository contains:
+- **scope.md** – Project Scope Statement
+- **plan.md** – Risk Analysis and Work Breakdown Structure
+- **retrospective.md** – Project Reflection
 
-- `index.html` – Main webpage
-- `style.css` – Website styling
-- `README.md` – Project documentation
+---
 
-## Author
+## Disclaimer
 
-**Ethan Etomi**
-
-Texas Tech University  
-B.S. Computing Applications  
-U.S. Army National Guard – 17E Electronic Warfare Specialist
+Sentinel Spectrum Technologies is a fictional company created solely for educational purposes. Any similarities to real organizations, products, or defense contractors are purely coincidental. No classified, proprietary, or controlled information is included in this project.
